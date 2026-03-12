@@ -81,4 +81,4 @@ Made by **Nexoz** — [github.com/Nexoz62270](https://github.com/Nexoz62270)
 ---
 
 *No libraries required — pure Python 🐍*
-*Last things i say you can saw the source code of the python game and past it in vs code with Python downloaded and no malware and the panel are an different password and not the password you can saw in the script i will say it at 50 subscriber on my github*
+*Last things i say you can saw the source code of the python game and past it in vs code with Python downloaded and no malware and the panel are an different password and not the password you can saw in the script i will say it at 50 subscribers on my github*
