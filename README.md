@@ -81,3 +81,4 @@ Made by **Nexoz** — [github.com/Nexoz62270](https://github.com/Nexoz62270)
 ---
 
 *No libraries required — pure Python 🐍*
+*Last things i say you can saw the source code of the pyhton game and past it in vs code with Python downloaded and no malware*
